@@ -1,0 +1,9 @@
+chromosome,file,n_intervals,starts_sorted,in_bounds,n_fields_mode,score_min,score_max
+CM068305.1,zdnabert_CM068305.1.bed,1296,True,True,5,0.6018,0.9817
+CM068306.1,zdnabert_CM068306.1.bed,1384,True,True,5,0.5948,0.9818
+CM068307.1,zdnabert_CM068307.1.bed,638,True,True,5,0.6296,0.9792
+CM068308.1,zdnabert_CM068308.1.bed,631,True,True,5,0.6249,0.9788
+CM068309.1,zdnabert_CM068309.1.bed,647,True,True,5,0.5864,0.9784
+CM068310.1,zdnabert_CM068310.1.bed,355,True,True,5,0.5657,0.9809
+CM068311.1,zdnabert_CM068311.1.bed,403,True,True,5,0.5741,0.9823
+CM068312.1,zdnabert_CM068312.1.bed,270,True,True,5,0.6371,0.9738

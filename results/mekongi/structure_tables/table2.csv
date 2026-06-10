@@ -1,0 +1,6 @@
+Region,n_regions_total,quadruplex_n_regions_hit,quadruplex_frac_regions_hit,zhunt_n_regions_hit,zhunt_frac_regions_hit,zdnabert_n_regions_hit,zdnabert_frac_regions_hit
+Exons,68083,16,0.0002,68035,0.9993,89,0.0013
+Introns,59371,950,0.016,59340,0.9995,1592,0.0268
+Promoters (1000 up from TSS),8591,68,0.0079,8584,0.9992,97,0.0113
+Downstream (200 bp),8650,22,0.0025,8641,0.999,6,0.0007
+Intergenic,8720,1108,0.1271,8716,0.9995,1907,0.2187
