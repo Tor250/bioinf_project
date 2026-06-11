@@ -1,9 +1,7 @@
 label,path,exists,size_mb
 FASTA,/home/user/student_homeworks/bioinf/project/smekongi_dir/ncbi_dataset/data/GCA_034768735.1/GCA_034768735.1_ASM3476873v1_genomic.fna,True,390.464
 GFF,/home/user/student_homeworks/bioinf/project/smekongi_dir/ncbi_dataset/data/GCA_034768735.1/genomic.gff,True,38.98
-PROTEOME,/home/user/student_homeworks/bioinf/project/smekongi_dir/ncbi_dataset/data/GCA_034768735.1/protein.faa,True,6.015
-epigenetic_genes.csv,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/epigenetic_genes.csv,True,0.014
-schistosoma_pfam.domtblout,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/schistosoma_pfam.domtblout,True,7.236
-zhunt_all.bed,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/zhunt_all.bed,True,0.001
-zdnabert_all.bed,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/zdnabert_all.bed,True,0.201
+zhunt_all.bed,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/zhunt_all.bed,True,1.447
 quadruplexes.bed,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/quadruplexes.bed,True,0.085
+epigenetic_genes.csv,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/epigenetic_genes.csv,True,0.015
+schistosoma_pfam.domtblout,/home/user/student_homeworks/bioinf/project/bioinf_project/results/mekongi/schistosoma_pfam.domtblout,True,7.236

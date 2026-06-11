@@ -23,13 +23,13 @@
   "gene_count": 9094,
   "epigenetic_hits": 148,
   "epigenetic_families": 18,
-  "zhunt_intervals": 41,
+  "zhunt_intervals": 40597,
   "zdnabert_intervals": 5624,
   "quadruplex_intervals": 2940,
-  "zhunt_bp": 378530342,
+  "zhunt_bp": 1002503,
   "zdnabert_bp": 101968,
   "quadruplex_bp": 143979,
-  "zhunt_vs_zdnabert_overlap_bp": 101968,
-  "zhunt_vs_zdnabert_jaccard": 0.000269,
-  "zdnabert_inside_zhunt": true
-}
+  "zhunt_vs_zdnabert_overlap_bp": 23872,
+  "zhunt_vs_zdnabert_jaccard": 0.022091,
+  "zdnabert_inside_zhunt": false
+}\n
